@@ -4,8 +4,6 @@
 CONTENT of this repo :-
 
 ______________________________________________________________________________________________
-LAB No.                        Exp Name
-______________________________________________________________________________________________
   1)	                          Open GL
 
   2)          STRUCTURE OF OPENGL PROGRAM Basic Structure of Graphics Program using C language
