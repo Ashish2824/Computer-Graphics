@@ -6,7 +6,8 @@ CONTENT of this repo :-
 ______________________________________________________________________________________________
   1)	                          Open GL
 
-  2)          STRUCTURE OF OPENGL PROGRAM Basic Structure of Graphics Program using C language
+  2)          STRUCTURE OF OPENGL PROGRAM
+  3)          And Basic Structure of Graphics Program using C language
 
   3)	                Create Simple Graphics Primitive
 
