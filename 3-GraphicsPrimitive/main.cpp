@@ -17,7 +17,7 @@ int main()
     arc(160,200,180,0,50);
 
     printf("\t\n\n\n\nCIRCLE");
-    //SYNTAX - circle(x, y, radius);  {where,(x, y) is center of the circle.}S
+    //SYNTAX - circle(x, y, radius);  {where,(x, y) is center of the circle.}
     circle(160,320,50);
 
     getch();
