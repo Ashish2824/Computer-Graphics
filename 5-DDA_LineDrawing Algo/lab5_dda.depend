@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645784316 source:d:\computer graphics project\lab5_dda\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+
