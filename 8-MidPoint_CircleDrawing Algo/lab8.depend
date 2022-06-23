@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649396097 source:d:\computer graphics project\lab8\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+
